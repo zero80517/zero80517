@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - The Bachelor of Science degree in Physics from [Kazan Federal University](https://kpfu.ru/)
 - Currently, Master student of Computer Science at [Kazan Federal University](https://kpfu.ru/).
 
+### Technologies & Tools
+
 <p>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
