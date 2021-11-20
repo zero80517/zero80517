@@ -31,6 +31,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=plastic&logo=visualstudio&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-C Sharp-00599C?style=plastic&logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-C Sharp-239120?style=plastic&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
 </p>
