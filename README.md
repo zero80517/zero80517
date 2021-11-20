@@ -27,4 +27,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-C Sharp-00599C?style=flat-square&logo=csharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 </p>
