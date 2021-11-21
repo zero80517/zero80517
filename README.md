@@ -33,4 +33,24 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/>
     <img src="https://img.shields.io/badge/-C Sharp-239120?style=plastic&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&style=flat"/>
 </p>
+
+![](https://aleen42.github.io/badges/src/python.svg)
+![](https://aleen42.github.io/badges/src/tensorflow.svg)
+
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white)
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)
+
+![](https://img.shields.io/badge/OS-Debian-red?logo=debian&style=flat&logoColor=red)
+![](https://img.shields.io/badge/OS-Ubuntu-red?logo=ubuntu&style=flat&logoColor=red)
+![](https://img.shields.io/badge/OS-Windows-red?logo=windows&style=flat&logoColor=red)
+
+
+![](https://img.shields.io/badge/Code-Python-orange?logo=python&style=flat&logoColor=orange)
+
+![](https://img.shields.io/badge/Editor-VisualStudio-yellow?logo=visualstudio&style=flat&logoColor=yellow)
+
+![](https://img.shields.io/badge/Tools-GoogleColab-green?logo=googlecolab&style=flat&logoColor=green)
