@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 ### Technologies & Tools
 
 <p>
-    <img src="https://img.shields.io/badge/-Github-181717?style=plastic&logo=GitHub&logoColor=white"/>
-</p>
-
-<p>
     <img src="https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&style=flat&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&style=flat&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Debian-A80030?logo=debian&style=flat&logoColor=white"/>
