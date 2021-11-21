@@ -51,6 +51,20 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Code-Python-orange?logo=python&style=flat&logoColor=orange)
 
-![](https://img.shields.io/badge/Editor-VisualStudio-yellow?logo=visualstudio&style=flat&logoColor=yellow)
-
-![](https://img.shields.io/badge/Tools-GoogleColab-green?logo=googlecolab&style=flat&logoColor=green)
+<p>
+    <img src="https://img.shields.io/badge/OS-Debian-A80030?logo=debian&style=flat&logoColor=A80030"/>
+    <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&style=flat&logoColor=E95420"/>
+    <img src="https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&style=flat&logoColor=0078D6"/>
+    <br>
+    <img src="https://img.shields.io/badge/Code-Python-3776AB?logo=python&style=flat&logoColor=3776AB"/>
+    <br>
+    <img src="https://img.shields.io/badge/Editor-Visual Studio-5C2D91?logo=visualstudio&style=flat&logoColor=5C2D91"/>
+    <br>
+    <img src="https://img.shields.io/badge/Tools-GoogleColab-F9AB00?logo=googlecolab&style=flat&logoColor=F9AB00"/>
+    <br>
+    <img src="https://img.shields.io/badge/Messengers-Telegram-26A5E4?logo=telegram&style=flat&logoColor=26A5E4)"/>
+    <br>
+    <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&style=flat&logoColor=4EAA25)"/>
+    <br>
+    <img src="https://img.shields.io/badge/Cloud-Google Cloud-4285F4?logo=googlecloud&style=flat&logoColor=4285F4"/>
+</p>
