@@ -35,6 +35,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&style=flat&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/Editor-Visual Studio-5C2D91?logo=visualstudio&style=flat&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&style=flat&logoColor=white"/>
     <img src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&style=flat&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/Tools-GoogleColab-F9AB00?logo=googlecolab&style=flat&logoColor=white"/>
