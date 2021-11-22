@@ -39,6 +39,7 @@ Here are some ideas to get you started:
     <br>
     <img src="https://img.shields.io/badge/Tools-GoogleColab-F9AB00?logo=googlecolab&style=flat&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?logo=GitHub&style=flat&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?logo=VirtualBox&style=flat&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/Messengers-Telegram-26A5E4?logo=telegram&style=flat&logoColor=26A5E4"/>
     <br>
